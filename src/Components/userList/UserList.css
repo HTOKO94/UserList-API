@@ -1,0 +1,27 @@
+body {
+    background-color: darkgoldenrod;
+    margin: 0;
+}
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+}
+.userCard {
+    display: flex;
+    width: 480px;
+    margin: 25px;
+    background-color: rgba(221, 217, 217, 0.8);
+    transform: translate(35%, 35%);
+}
+
+.Userimg {
+    height: 100px;
+    width: 100px;
+    margin: 15px;
+    margin-top: 70px;
+}
+
+.profileCard {
+    padding: 25px;
+}
+
